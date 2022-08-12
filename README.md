@@ -10,8 +10,7 @@ npm i your-scraper
 
 # Methods
 - Hug (hug)
-- 4K (fourk)
-- Ass (ass)
+- Kiss (kiss)
 - Lewd (lewd)
 - Lizard (lizard)
 - Neko (neko)
