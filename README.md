@@ -24,7 +24,7 @@ npm i your-scraper
 # Example
 ```js
 const Discord = require("discord.js");
-const NSFW = require("your-scraper");
+const scraper = require("your-scraper");
 const scraper = new scraper();
 
 const image = await scraper.hug();
