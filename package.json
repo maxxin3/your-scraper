@@ -1,0 +1,22 @@
+{
+  "name": "your-scraper",
+  "version": "1.0.0",
+  "description": "image scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxxin3/your-scraper.git"
+  },
+  "author": "maxine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxxin3/your-scraper/issues"
+  },
+  "homepage": "https://github.com/maxxin3/your-scraper#readme",
+  "dependencies": {
+    "superagent": "^8.0.0"
+  }
+}
